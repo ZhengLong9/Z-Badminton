@@ -1,0 +1,14 @@
+# Local secrets and machine-specific files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local tooling and generated output
+node_modules/
+*.log
+.vscode/
+.idea/
+coverage/
