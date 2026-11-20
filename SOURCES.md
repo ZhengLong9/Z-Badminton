@@ -13,8 +13,8 @@ These are visual references for an independent portfolio project. No affiliation
 
 | Use | Source | Attribution record |
 | --- | --- | --- |
-| Homepage hero | [Local tournament photograph](assets/court-players.png) | Obtained from the BWF website, as identified by the project owner. The original page URL, photographer credit, and reuse permission have not been recorded. |
-| "Find your edge" feature | [Yonex campaign image](https://www.yonex.com/media/catalog/category/heroimage_b_racquets_260206_1.jpg) | Remote image hosted by Yonex; photographer and reuse permission are not recorded in the project. |
+| Homepage hero | [Local tournament photograph](assets/court-players.png) | Obtained from the BWF website. |
+| "Find your edge" feature | [Yonex campaign image](https://www.yonex.com/media/catalog/category/heroimage_b_racquets_260206_1.jpg) | Remote image hosted by Yonex |
 
 ## Product imagery
 
@@ -28,8 +28,6 @@ These are visual references for an independent portfolio project. No affiliation
 | Li-Ning G800 / Shuttles category | [Li-Ning Studio product image](https://sg.lining.studio/cdn/shop/files/AYQR_004_4_S_a3523220ab.jpg?v=1752148589&width=650) |
 | Li-Ning D6 | [Li-Ning Studio product image](https://sg.lining.studio/cdn/shop/files/2_e4af80578b.jpg?v=1752147570&width=650) |
 | Yonex Super Grap AC102EX / Accessories category | [BadmintonHQ product image via SpeedSize](https://sfycdn.speedsize.com/8140516e-7833-475e-b70f-6e943a98adee/badmintonhq.co.uk/cdn/shop/products/37499412-5dd1-4138-b161-398adf62b3fb.jpg?v=1731964084&width=1946) |
-
-Remote photographs depend on their external hosts. Failed image requests display a solid grey placeholder sized to the existing image container.
 
 ## Catalogue references
 
@@ -53,4 +51,4 @@ These links are documentation credits; product pages in the storefront do not in
 
 ## Third-party rights
 
-Brand names and third-party photographs remain associated with their respective owners. This project does not grant a licence to redistribute those assets. Attribution records the source; it does not establish reuse permission, including for a public portfolio repository.
+Brand names and third-party photographs remain associated with their respective owners. This project does not grant a licence to redistribute those assets. 
