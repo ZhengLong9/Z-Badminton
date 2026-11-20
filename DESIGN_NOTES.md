@@ -30,7 +30,7 @@ Colour is used selectively so that photographs, product names, and actions remai
 
 ### Photography and composition
 
-The hero pairs tournament photography with a large headline and a direct shopping action. A dark overlay separates the text from the image. The supporting tagline was removed to keep this opening composition focused.
+The hero pairs tournament photography with a large headline and a direct shopping action. A dark overlay separates the text from the image. 
 
 The "Find your edge" section introduces a contrasting image-and-text composition between product sections. Product imagery uses consistent containers and contained sizing, allowing different equipment silhouettes to sit within the same grid. Images that fail to load become neutral grey placeholders without collapsing their layout.
 
@@ -70,7 +70,7 @@ The journey is expressed through page titles and actions:
 | Order summary | Place order |
 | Order confirmed | Continue shopping |
 
-A separate progress indicator was removed to avoid repeating the page context. Back links share a consistent left-aligned position above the page content.
+Back links were added and share a consistent left-aligned position above the page content.
 
 The final summary retains a receipt-like structure: labels on the left, amounts on the right, quiet separators, and a prominent total. The summary and primary action remain centred, while navigation stays aligned to the page margin. Confirmation preserves the same totals after the local bag is cleared.
 
